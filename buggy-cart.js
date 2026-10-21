@@ -1,5 +1,3 @@
-// buggy-cart.js - Fixed Version
-
 const cart = [
   { name: "Notebook", price: "1500", qty: 2 },
   { name: "Pen", price: 300, qty: 5 },
